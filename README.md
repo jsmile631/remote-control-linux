@@ -32,5 +32,7 @@ sudo apt install remmina remmina-plugin-vnc
 ### Langkah 2 : Login to Server Rust
     Session : Local Active Session
     Password : 1
+![Screenshot from 2023-08-17 20-30-53](https://github.com/jsmile631/remote-control-linux/assets/136232449/93d829b5-003d-4ee3-9384-47199a636344)
+
 
 
