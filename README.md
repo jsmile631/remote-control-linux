@@ -1,4 +1,4 @@
-# remote-control-linux
+# Remote-Control-Linux-VNC
 
 ### Langkah 1 : Install Remmina
 ```code
@@ -13,11 +13,9 @@ sudo apt install remmina remmina-plugin-vnc
     Show remote cursor : true
 ![Screenshot from 2023-08-16 06-36-24](https://github.com/jsmile631/remote-control-linux/assets/136232449/40cb678b-37c3-47ba-a356-7c6fa1e31fcc)
 ![Screenshot from 2023-08-16 06-38-59](https://github.com/jsmile631/remote-control-linux/assets/136232449/721dc4dc-d988-4707-9490-2edf4edf796d)
-
 ### Langkah 4 : Click Connect
-
-# Add remote-control-linux-for RDP
-
+------------------------------------------------------------------------------------
+# Remote-Control-Linux-RDP
 ### Langkah 1 : Create New Connection 
     Basic:
         Name: Server Rust
@@ -34,5 +32,21 @@ sudo apt install remmina remmina-plugin-vnc
     Password : 1
 ![Screenshot from 2023-08-17 20-30-53](https://github.com/jsmile631/remote-control-linux/assets/136232449/93d829b5-003d-4ee3-9384-47199a636344)
 
+----------------------------------------
 
+# Transfer File via FileZilla
 
+### Langkah 1 : Install FileZilla
+    sudo apt-get install filezilla
+### Langkah 2 : Open FileZilla
+### Langkah 3 : Create New Site Connection
+    File -> Site Manager -> New Site
+### Langkah 3 : Settings for New Site
+    Protocol : SFTP-SSH File Transfer Protocol
+       Host  : 192.168.1.3
+    
+       Logon : Normal
+        User : ema
+    Password : 1
+Connect!
+    
