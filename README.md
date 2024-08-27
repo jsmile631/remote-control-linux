@@ -21,7 +21,7 @@ sudo apt install remmina remmina-plugin-vnc
         Name: Server Rust
         Protocol : RDP - Remote Desktop Protocol
         Server : 192.168.1.3
-        Password : 1
+        Password : Password
     Advanced:
         Relax order Checks = true
         Glyph cache = true
@@ -29,7 +29,7 @@ sudo apt install remmina remmina-plugin-vnc
 ![Screenshot from 2023-08-17 20-27-25](https://github.com/jsmile631/remote-control-linux/assets/136232449/fa4f6770-173e-4b55-84ae-d380ec270aa9)
 ### Langkah 2 : Login to Server Rust
     Session : Local Active Session
-    Password : 1
+    Password : Password
 ![Screenshot from 2023-08-17 20-30-53](https://github.com/jsmile631/remote-control-linux/assets/136232449/93d829b5-003d-4ee3-9384-47199a636344)
 
 ----------------------------------------
