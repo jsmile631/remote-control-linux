@@ -46,7 +46,7 @@ sudo apt install remmina remmina-plugin-vnc
        Host  : 192.168.1.3
     
        Logon : Normal
-        User : ema
-    Password : 1
+        User : username
+    Password : password
 Connect!
     
